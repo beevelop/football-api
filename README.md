@@ -5,6 +5,8 @@
 
 # Football-API.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/beevelop/football-api.svg)](https://greenkeeper.io/)
+
 ```js
 const FootballAPI = require('football-api')
 const fapi = new FootballAPI('*YOUR AUTHORIZATION KEY*')
