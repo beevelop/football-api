@@ -1,0 +1,24 @@
+{
+  "name": "football-api.js",
+  "version": "0.1.0",
+  "description": "Simple Node.js API abstraction for football-api.com",
+  "main": "index.js",
+  "scripts": {
+    "docs": "node_modules/.bin/jsdoc --configure .jsdoc.json --verbose",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:beevelop/football-api.git"
+  },
+  "author": "Maik Hummel",
+  "license": "MIT",
+  "dependencies": {
+    "got": "6.7.1"
+  },
+  "devDependencies": {
+    "jsdoc": "3.4.3",
+    "minami": "1.1.1"
+  },
+  "private": true
+}
