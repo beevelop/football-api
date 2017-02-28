@@ -1,5 +1,5 @@
 {
-  "name": "football-api.js",
+  "name": "football-api",
   "version": "0.1.0",
   "description": "Simple Node.js API abstraction for football-api.com",
   "main": "index.js",
@@ -19,6 +19,5 @@
   "devDependencies": {
     "jsdoc": "3.4.3",
     "minami": "1.1.1"
-  },
-  "private": true
+  }
 }
