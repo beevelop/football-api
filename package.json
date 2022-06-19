@@ -14,7 +14,7 @@
   "author": "Maik Hummel",
   "license": "MIT",
   "dependencies": {
-    "got": "6.7.1"
+    "got": "11.8.5"
   },
   "devDependencies": {
     "jsdoc": "3.4.3",
